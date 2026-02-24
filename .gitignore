@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+mimi_claw_pi/ui/latest_alert.json
+mimi_claw_pi/config.yaml
+.vscode/
+.DS_Store

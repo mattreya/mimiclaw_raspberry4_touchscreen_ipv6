@@ -1,0 +1,5 @@
+google-generativeai
+kivy
+pyyaml
+requests
+python-dotenv
